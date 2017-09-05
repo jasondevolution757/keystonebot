@@ -23,27 +23,27 @@ List all keystones
 ```
 
 ## Keystone alias list
-> Maw of Souls - MoS
+> Maw of Souls - MoS or Maw
 
-> Court of Stars - CoS
+> Court of Stars - CoS or Court
 
-> The Arcway - Arc
+> The Arcway - Arc or Arcway
 
 > Black Rook Hold - BRH
 
 > Darkheart Thicket - DHT
 
-> Neltharion's Lair - NL
+> Neltharion's Lair - NL or Nelths
 
-> Halls of Valor - HoV
+> Halls of Valor - HoV or Halls
 
-> Eye of Azshara - EoA
+> Eye of Azshara - EoA or Eye
 
 > Vault of the Wardens - VotW or Vault
 
-> Upper Karazhan - UKara or KU
+> Upper Karazhan - UKara or KU or Upper
 
-> Lower Karazhan - LKara or KL
+> Lower Karazhan - LKara or KL or Lower
 
 > Cathedral of Eternal Night - CoeN or Cathedral
 
